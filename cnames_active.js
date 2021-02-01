@@ -33,6 +33,7 @@
 var cnames_active = {
   "": "smiley.github.io",
   "docs": "smiley.github.io/docs",
+  "test": "test",
   /*
    * Lütfen buraya kayıt eklemeyin.
    * Çakışmaları öncelemek için alfabetik sıra ile ekleme yapın.
